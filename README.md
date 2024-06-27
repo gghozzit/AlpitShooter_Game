@@ -42,7 +42,7 @@ Alpit Shooter is a Third Person Shooter (TPS) set in carnaval event. Player aim 
 
 ## Installation
 
-1. Download the installation packages in GDrive link ()
+1. Download the installation packages in GDrive link (https://s.id/AlpitShooter_x64)
 2. Extract the files
 3. Run "GGame.exe"
 
@@ -60,4 +60,4 @@ Dr. Ir. Aulia Faqih Rifa'i, M.Kom.
 ## Links
 
 - [Teaser Video]( )
-- [WIndows Installation]( )
+- [Source_Code](https://s.id/AlpitShooter_SC)
