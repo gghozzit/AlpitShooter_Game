@@ -3,7 +3,7 @@
 <h1 align="center">
     <div align="center">
         <div style="text-align:center">
-            <img src="Game_Capture/Logo.png" alt="Game Icon" width="300"/>
+            <img src="Game_capture/Logo.png" alt="Game Icon" width="300"/>
         </div>
     </div>
 </h1>
@@ -30,12 +30,12 @@ Alpit Shooter is a Third Person Shooter (TPS) set in carnaval event. Player aim 
 <h1 align="center">
     <div align="center">
         <div style="text-align:center">
-            <img src="Game_Capture/MainMenu.png" alt="Main Menu" width="300"/>
-            <img src="Game_Capture/LevelSelector.png" alt="Level Selector" width="300"/>
-            <img src="Game_Capture/GameScene1.png" alt="in Game 1" width="300"/>
-            <img src="Game_Capture/GameScene2.png" alt="in Game 2" width="300"/>
-            <img src="Game_Capture/GameScene3.png" alt="in Game 3" width="300"/>
-            <img src="Game_Capture/GameOver.png" alt="Game Over" width="300"/>
+            <img src="Game_capture/MainMenu.png" alt="Main Menu" width="300"/>
+            <img src="Game_capture/LevelSelector.png" alt="Level Selector" width="300"/>
+            <img src="Game_capture/GameScene1.png" alt="in Game 1" width="300"/>
+            <img src="Game_capture/GameScene2.png" alt="in Game 2" width="300"/>
+            <img src="Game_capture/GameScene3.png" alt="in Game 3" width="300"/>
+            <img src="Game_capture/GameOver.png" alt="Game Over" width="300"/>
         </div>
     </div>
 </h1>
