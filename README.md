@@ -47,7 +47,7 @@ Alpit Shooter is a Third Person Shooter (TPS) set in carnaval event. Player aim 
         <div style="text-align:center">
             <img src="Game_capture/MainMenu.png" alt="Main Menu" width="300"/>
             <img src="Game_capture/LevelSelector.png" alt="Level Selector" width="300"/>
-            <img src="Game_capture/GameScene1V2" alt="in Game 1" width="300"/>
+            <img src="Game_capture/GameScene1V2.png" alt="in Game 1" width="300"/>
             <img src="Game_capture/GameScene2V2.png" alt="in Game 2" width="300"/>
             <img src="Game_capture/GameScene3V2.png" alt="in Game 3" width="300"/>
             <img src="Game_capture/GameScene4V2.png" alt="Game Over" width="300"/>
