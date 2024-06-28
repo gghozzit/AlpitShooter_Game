@@ -78,5 +78,5 @@ Dr. Ir. Aulia Faqih Rifa'i, M.Kom.
 
 ## Links
 
-- [Teaser Video]( )
+- [Teaser Video](https://youtu.be/zZZgzPxQHCU)
 - [Source_Code](https://s.id/AlpitShooter_SC)
